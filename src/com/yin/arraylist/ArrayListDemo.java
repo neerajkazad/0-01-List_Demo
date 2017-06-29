@@ -2,7 +2,14 @@ package com.yin.arraylist;
 
 import java.util.ArrayList;
 
-
+/**
+ * This is a program that show how to make basic ArrayList program 
+ * In this program we are using three method
+ * 1) add()
+ * 2) remove 
+ * 3)add(-,-)
+ * 
+ */
 
 public class ArrayListDemo {
 	public static void main(String[] args) {
